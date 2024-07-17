@@ -1,6 +1,4 @@
-    <div id="wiki-content" class="mt-4">
-      <div data-view-component="true" class="Layout Layout--flowRow-until-md Layout--sidebarPosition-end Layout--sidebarPosition-flowRow-end">
-  <div data-view-component="true" class="Layout-main">          <div id="wiki-body" class="gollum-markdown-content">
+<div data-view-component="true" class="Layout-main">          <div id="wiki-body" class="gollum-markdown-content">
               <div class="markdown-body">
                 <ul>
 <li><a href="iptv.md">世界各地的8000多个公共IPTV频道</a></li>
@@ -62,6 +60,3 @@
 </ul>
 
               </div>
-
-          </div>
-</div>
