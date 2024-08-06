@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1 ,东莞生活资讯[1920*1080]
+http://php.jdshipin.com:8880/0769.php?id=shzx
+#EXTINF:-1 ,东莞新闻综合[1920*1080]
+http://php.jdshipin.com:8880/0769.php?id=xwzh
+#EXTINF:-1 ,1905国内电影
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 ,1905国外电影
+http://php.jdshipin.com:8880/1905.php?id=1905dy2
+#EXTINF:-1 ,澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 ,金色学堂
+http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1 ,CCTV16
+http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
+#EXTINF:-1 ,汽摩.576
+http://php.jdshipin.com:8880/cqyx.php?id=cqcarSD
+#EXTINF:-1 ,收藏天下.540
+http://php.jdshipin.com:8880/cqyx.php?id=soucang
+#EXTINF:-1 ,中华特产
+http://php.jdshipin.com:8880/cqyx.php?id=techan
+#EXTINF:-1 ,佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1 ,佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+#EXTINF:-1 ,佛山南海
+http://php.jdshipin.com:8880/fstv.php?id=fsnh
+#EXTINF:-1 ,佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+#EXTINF:-1 ,广东｜佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
+#EXTINF:-1 ,广东｜佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
+#EXTINF:-1 ,广东｜佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1 ,海峡卫视.备用
+http://php.jdshipin.com:8880/fujian.php?id=9
+#EXTINF:-1 ,广东｜广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 ,广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 ,广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 ,广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 ,广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 ,广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 ,武术世界
+http://php.jdshipin.com:8880/hntv.php?id=wspd
+#EXTINF:-1 ,文物宝库
+http://php.jdshipin.com:8880/hntv.php?id=wwbk
+#EXTINF:-1 ,湖南都市
+http://php.jdshipin.com:8880/iptv.php?id=hnds
+#EXTINF:-1 ,湖南电视剧
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
+#EXTINF:-1 ,湖南电影
+http://php.jdshipin.com:8880/iptv.php?id=hndy
+#EXTINF:-1 ,湖南爱晚
+http://php.jdshipin.com:8880/iptv.php?id=hngg
+#EXTINF:-1 ,湖南国际
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 ,湖南经视
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
+#EXTINF:-1 ,湖南娱乐
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
+#EXTINF:-1 ,欢笑剧场4K.1080P
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
+#EXTINF:-1 ,生活时尚
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
+#EXTINF:-1 ,东方财经
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
+#EXTINF:-1 ,SITV金色学堂
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
+#EXTINF:-1 ,第一财经
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
+#EXTINF:-1 ,东方影视
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
+#EXTINF:-1 ,上海新闻综合
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
+#EXTINF:-1 ,都市剧场
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
+#EXTINF:-1 ,全纪实
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
+#EXTINF:-1 ,动漫秀场
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
+#EXTINF:-1 ,游戏风云
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
+#EXTINF:-1 ,七彩戏剧
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
+#EXTINF:-1 ,云南卫视
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031120
+#EXTINF:-1 ,甘肃卫视
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031121
+#EXTINF:-1 ,哈哈炫动
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
+#EXTINF:-1 ,快乐垂钓
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
+#EXTINF:-1 ,魅力足球
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+#EXTINF:-1 ,茶
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
+#EXTINF:-1 ,卡酷少儿
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
+#EXTINF:-1 ,SITV法治天地
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
+#EXTINF:-1 ,五星体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
+#EXTINF:-1 ,劲爆体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
+#EXTINF:-1 ,中国天气.540
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
+#EXTINF:-1 ,家庭理财.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000064
+#EXTINF:-1 ,茶
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
+#EXTINF:-1 ,青岛中华美食.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000052
+#EXTINF:-1 ,求索生活
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000008
+#EXTINF:-1 ,求索动物
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
+#EXTINF:-1 ,求索记录
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
+#EXTINF:-1 ,求索科学
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
+#EXTINF:-1 ,高清娱乐.720
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
+#EXTINF:-1 ,华数4K电影
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
+#EXTINF:-1 ,电子竞技
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000015
+#EXTINF:-1 ,漫游世界.720
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000017
+#EXTINF:-1 ,爱科幻
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033
+#EXTINF:-1 ,IHOT爱院线
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
+#EXTINF:-1 ,IHOT爱浪漫
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000035
+#EXTINF:-1 ,IHOT爱经典
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037
+#EXTINF:-1 ,爱谍战
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038
+#EXTINF:-1 ,爱青春
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000041
+#EXTINF:-1 ,IHOT爱历史
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
+#EXTINF:-1 ,爱科学
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047
+#EXTINF:-1 ,爱玩具
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053
+#EXTINF:-1 ,爱赛车
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000055
+#EXTINF:-1 ,爱旅行
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000056
+#EXTINF:-1 ,IHOT爱奇谈
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000058
+#EXTINF:-1 ,IHOT爱动漫
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059
+#EXTINF:-1 ,IHOT爱体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060
+#EXTINF:-1 ,精彩影视
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
+#EXTINF:-1 ,湖南都市.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
+#EXTINF:-1 ,湖南国际
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
+#EXTINF:-1 ,湖南经视.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
+#EXTINF:-1 ,湖南娱乐.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
+#EXTINF:-1 ,湖南电影.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
+#EXTINF:-1 ,湖南电视剧.576
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
+#EXTINF:-1 ,陕西卫视
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000007495
+#EXTINF:-1 ,青海卫视
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000013359
+#EXTINF:-1 ,纯享4K
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
+#EXTINF:-1 ,广东珠江
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+#EXTINF:-1 ,哒啵电竞
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000032327
+#EXTINF:-1 ,先锋乒羽.576
+http://php.jdshipin.com:8880/itv6s.php?cid=hnbblive&id=4886720949268374180
+#EXTINF:-1 ,风尚音乐
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5529729098703832176
+#EXTINF:-1 ,亚洲影院
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
+#EXTINF:-1 ,炫动3D
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000000558
+#EXTINF:-1 ,高清娱乐
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000001569
+#EXTINF:-1 ,电子竞技
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000011654
+#EXTINF:-1 ,精彩影视
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
+#EXTINF:-1 ,欧美影院HD
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
+#EXTINF:-1 ,凤凰资讯
+http://php.jdshipin.com:8880/jydx.php?id=36
+#EXTINF:-1 ,凤凰中文
+http://php.jdshipin.com:8880/jydx.php?id=37
+#EXTINF:-1 ,凤凰香港
+http://php.jdshipin.com:8880/jydx.php?id=38
+#EXTINF:-1 ,TVB星河台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 ,凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 ,无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 ,J2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 ,TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 ,美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 ,明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 ,凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 ,凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 ,RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 ,RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 ,TVBJade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 ,VIU TV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 ,华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 ,TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 ,北京IPTV4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=bj4k
+#EXTINF:-1 ,重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 ,峨眉电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy
+#EXTINF:-1 ,4K超高清电影.1080P
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 ,凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 ,凤凰卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 ,凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 ,广东4K超高清
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=gd4k
+#EXTINF:-1 ,湖南都市.备用
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
+#EXTINF:-1 ,湖南电视剧.备用
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+#EXTINF:-1 ,湖南电影.备用
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
+#EXTINF:-1 ,湖南爱晚
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
+#EXTINF:-1 ,湖南国际.备用
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
+#EXTINF:-1 ,湖南经视.备用
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
+#EXTINF:-1 ,湖南娱乐.备用
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
+#EXTINF:-1 ,海峡卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+#EXTINF:-1 ,TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 ,江西都市.576
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
+#EXTINF:-1 ,江西公共农业
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
+#EXTINF:-1 ,江西经济生活
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjjsh
+#EXTINF:-1 ,江西教育
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
+#EXTINF:-1 ,江西少儿
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
+#EXTINF:-1 ,江西新闻
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
+#EXTINF:-1 ,江西影视旅游.576
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
+#EXTINF:-1 ,明珠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+#EXTINF:-1 ,RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 ,RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 ,深圳财经生活
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=szcjsh
+#EXTINF:-1 ,陶瓷频道
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
+#EXTINF:-1 ,TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 ,ViuTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 ,TVB星河台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 ,新视觉
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
+#EXTINF:-1 ,Now Lucky 688 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
+#EXTINF:-1 ,Now Sports 618 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+#EXTINF:-1 ,Now Sports 619 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
+#EXTINF:-1 ,西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 ,西藏影视文化
+http://php.jdshipin.com:8880/xztv.php?id=ys
+#EXTINF:-1 ,西藏藏语卫视
+http://php.jdshipin.com:8880/xztv.php?id=zy
