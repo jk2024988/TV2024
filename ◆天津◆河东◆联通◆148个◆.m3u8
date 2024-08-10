@@ -1,0 +1,297 @@
+#EXTM3U
+#EXTINF:-1 ,导视频道
+http://nas.hssvm.com:8888/udp/225.1.1.77:5002
+#EXTINF:-1 ,天津卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.111:5002
+#EXTINF:-1 ,天津新闻HD
+http://nas.hssvm.com:8888/udp/225.1.1.130:5002
+#EXTINF:-1 ,天津文艺HD
+http://nas.hssvm.com:8888/udp/225.1.1.131:5002
+#EXTINF:-1 ,天津影视HD
+http://nas.hssvm.com:8888/udp/225.1.1.149:5002
+#EXTINF:-1 ,天津都市HD
+http://nas.hssvm.com:8888/udp/225.1.1.128:5002
+#EXTINF:-1 ,天津体育HD
+http://nas.hssvm.com:8888/udp/225.1.1.122:5002
+#EXTINF:-1 ,天津科教HD
+http://nas.hssvm.com:8888/udp/225.1.1.129:5002
+#EXTINF:-1 ,天津少儿HD
+http://nas.hssvm.com:8888/udp/225.1.1.125:5002
+#EXTINF:-1 ,蓟州区HD
+http://nas.hssvm.com:8888/udp/225.1.1.82:5002
+#EXTINF:-1 ,宝坻区
+http://nas.hssvm.com:8888/udp/225.1.1.83:5002
+#EXTINF:-1 ,静海区
+http://nas.hssvm.com:8888/udp/225.1.1.110:5002
+#EXTINF:-1 ,河东区
+http://nas.hssvm.com:8888/udp/225.1.2.2:5002
+#EXTINF:-1 ,河西区
+http://nas.hssvm.com:8888/udp/225.1.2.4:5002
+#EXTINF:-1 ,滨海新区1
+http://nas.hssvm.com:8888/udp/225.1.2.7:5002
+#EXTINF:-1 ,滨海新区2
+http://nas.hssvm.com:8888/udp/225.1.2.8:5002
+#EXTINF:-1 ,4K超清影视
+http://nas.hssvm.com:8888/udp/225.1.1.156:5002
+#EXTINF:-1 ,CCTV-1综合HD
+http://nas.hssvm.com:8888/udp/225.1.1.120:5002
+#EXTINF:-1 ,CCTV-2财经HD
+http://nas.hssvm.com:8888/udp/225.1.1.133:5002
+#EXTINF:-1 ,CCTV-3综合文艺HD
+http://nas.hssvm.com:8888/udp/225.1.1.158:5002
+#EXTINF:-1 ,CCTV-4中文国际HD
+http://nas.hssvm.com:8888/udp/225.1.1.150:5002
+#EXTINF:-1 ,CCTV-5体育HD
+http://nas.hssvm.com:8888/udp/225.1.1.170:5002
+#EXTINF:-1 ,CCTV5+ HD
+http://nas.hssvm.com:8888/udp/225.1.1.121:5002
+#EXTINF:-1 ,CCTV-6电影HD
+http://nas.hssvm.com:8888/udp/225.1.1.195:5002
+#EXTINF:-1 ,CCTV-7农业HD
+http://nas.hssvm.com:8888/udp/225.1.1.138:5002
+#EXTINF:-1 ,CCTV-8电视剧HD
+http://nas.hssvm.com:8888/udp/225.1.1.196:5002
+#EXTINF:-1 ,CCTV-9记录HD
+http://nas.hssvm.com:8888/udp/225.1.1.119:5002
+#EXTINF:-1 ,CCTV-10科教HD
+http://nas.hssvm.com:8888/udp/225.1.1.140:5002
+#EXTINF:-1 ,CCTV-11戏曲
+http://nas.hssvm.com:8888/udp/225.1.1.22:5002
+#EXTINF:-1 ,CCTV-12社会与法HD
+http://nas.hssvm.com:8888/udp/225.1.1.142:5002
+#EXTINF:-1 ,CCTV-13新闻
+http://nas.hssvm.com:8888/udp/225.1.1.24:5002
+#EXTINF:-1 ,CCTV-14少儿HD
+http://nas.hssvm.com:8888/udp/225.1.1.144:5002
+#EXTINF:-1 ,CCTV-15音乐
+http://nas.hssvm.com:8888/udp/225.1.1.26:5002
+#EXTINF:-1 ,CGTN
+http://nas.hssvm.com:8888/udp/225.1.1.27:5002
+#EXTINF:-1 ,CGTN-纪录
+http://nas.hssvm.com:8888/udp/225.1.1.55:5002
+#EXTINF:-1 ,湖南卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.114:5002
+#EXTINF:-1 ,江苏卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.126:5002
+#EXTINF:-1 ,浙江卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.112:5002
+#EXTINF:-1 ,安徽卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.127:5002
+#EXTINF:-1 ,北京卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.113:5002
+#EXTINF:-1 ,黑龙江卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.115:5002
+#EXTINF:-1 ,广东卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.116:5002
+#EXTINF:-1 ,深圳卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.117:5002
+#EXTINF:-1 ,四川卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.123:5002
+#EXTINF:-1 ,湖北卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.147:5002
+#EXTINF:-1 ,山东卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.148:5002
+#EXTINF:-1 ,辽宁卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.154:5002
+#EXTINF:-1 ,重庆卫视HD
+http://nas.hssvm.com:8888/udp/225.1.1.155:5002
+#EXTINF:-1 ,吉林卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.26:5002
+#EXTINF:-1 ,河北卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.27:5002
+#EXTINF:-1 ,贵州卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.28:5002
+#EXTINF:-1 ,江西卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.29:5002
+#EXTINF:-1 ,上海东方HD
+http://nas.hssvm.com:8888/udp/225.1.2.31:5002
+#EXTINF:-1 ,河南卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.61:5002
+#EXTINF:-1 ,广西卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.81:5002
+#EXTINF:-1 ,海南卫视HD
+http://nas.hssvm.com:8888/udp/225.1.2.82:5002
+#EXTINF:-1 ,甘肃卫视
+http://nas.hssvm.com:8888/udp/225.1.1.30:5002
+#EXTINF:-1 ,内蒙古卫视
+http://nas.hssvm.com:8888/udp/225.1.1.32:5002
+#EXTINF:-1 ,新疆卫视
+http://nas.hssvm.com:8888/udp/225.1.1.35:5002
+#EXTINF:-1 ,东南卫视
+http://nas.hssvm.com:8888/udp/225.1.1.38:5002
+#EXTINF:-1 ,陕西卫视
+http://nas.hssvm.com:8888/udp/225.1.1.41:5002
+#EXTINF:-1 ,山西卫视
+http://nas.hssvm.com:8888/udp/225.1.1.50:5002
+#EXTINF:-1 ,西藏卫视
+http://nas.hssvm.com:8888/udp/225.1.1.51:5002
+#EXTINF:-1 ,青海卫视
+http://nas.hssvm.com:8888/udp/225.1.1.54:5002
+#EXTINF:-1 ,宁夏卫视
+http://nas.hssvm.com:8888/udp/225.1.1.56:5002
+#EXTINF:-1 ,云南卫视
+http://nas.hssvm.com:8888/udp/225.1.1.61:5002
+#EXTINF:-1 ,兵团卫视
+http://nas.hssvm.com:8888/udp/225.1.1.57:5002
+#EXTINF:-1 ,金鹰卡通
+http://nas.hssvm.com:8888/udp/225.1.1.59:5002
+#EXTINF:-1 ,BTV卡酷少儿
+http://nas.hssvm.com:8888/udp/225.1.1.58:5002
+#EXTINF:-1 ,BTV冬奥纪实HD
+http://nas.hssvm.com:8888/udp/225.1.2.30:5002
+#EXTINF:-1 ,炫动卡通
+http://nas.hssvm.com:8888/udp/225.1.1.62:5002
+#EXTINF:-1 ,金鹰纪实HD
+http://nas.hssvm.com:8888/udp/225.1.1.124:5002
+#EXTINF:-1 ,动漫秀场HD
+http://nas.hssvm.com:8888/udp/225.1.1.134:5002
+#EXTINF:-1 ,萌宠
+http://nas.hssvm.com:8888/udp/225.1.1.96:5002
+#EXTINF:-1 ,游戏风云高清
+http://nas.hssvm.com:8888/udp/225.1.1.135:5002
+#EXTINF:-1 ,欢笑剧场高清
+http://nas.hssvm.com:8888/udp/225.1.1.139:5002
+#EXTINF:-1 ,Max极速汽车高清
+http://nas.hssvm.com:8888/udp/225.1.1.141:5002
+#EXTINF:-1 ,生活时尚高清
+http://nas.hssvm.com:8888/udp/225.1.1.143:5002
+#EXTINF:-1 ,全纪实高清
+http://nas.hssvm.com:8888/udp/225.1.1.145:5002
+#EXTINF:-1 ,纪实人文高清
+http://nas.hssvm.com:8888/udp/225.1.2.25:5002
+#EXTINF:-1 ,都市剧场高清
+http://nas.hssvm.com:8888/udp/225.1.1.146:5002
+#EXTINF:-1 ,幸福彩高清
+http://nas.hssvm.com:8888/udp/225.1.1.152:5002
+#EXTINF:-1 ,陶瓷高清
+http://nas.hssvm.com:8888/udp/225.1.1.153:5002
+#EXTINF:-1 ,DogT高清
+http://nas.hssvm.com:8888/udp/225.1.1.132:5002
+#EXTINF:-1 ,CHC家庭影院高清
+http://nas.hssvm.com:8888/udp/225.1.1.213:5002
+#EXTINF:-1 ,CHC高清电影
+http://nas.hssvm.com:8888/udp/225.1.1.214:5002
+#EXTINF:-1 ,CHC动作电影
+http://nas.hssvm.com:8888/udp/225.1.1.215:5002
+#EXTINF:-1 ,金色频道高清
+http://nas.hssvm.com:8888/udp/225.1.1.236:5002
+#EXTINF:-1 ,法治天地高清
+http://nas.hssvm.com:8888/udp/225.1.1.237:5002
+#EXTINF:-1 ,映画高清
+http://nas.hssvm.com:8888/udp/225.1.1.238:5002
+#EXTINF:-1 ,剧场高清
+http://nas.hssvm.com:8888/udp/225.1.1.239:5002
+#EXTINF:-1 ,新知高清
+http://nas.hssvm.com:8888/udp/225.1.1.240:5002
+#EXTINF:-1 ,新艺高清
+http://nas.hssvm.com:8888/udp/225.1.1.241:5002
+#EXTINF:-1 ,英伦高清
+http://nas.hssvm.com:8888/udp/225.1.1.242:5002
+#EXTINF:-1 ,怡家高清
+http://nas.hssvm.com:8888/udp/225.1.1.243:5002
+#EXTINF:-1 ,环映高清
+http://nas.hssvm.com:8888/udp/225.1.1.244:5002
+#EXTINF:-1 ,雅趣高清
+http://nas.hssvm.com:8888/udp/225.1.1.245:5002
+#EXTINF:-1 ,快乐垂钓
+http://nas.hssvm.com:8888/udp/225.1.2.18:5002
+#EXTINF:-1 ,茶频道
+http://nas.hssvm.com:8888/udp/225.1.2.19:5002
+#EXTINF:-1 ,休闲体育高清
+http://nas.hssvm.com:8888/udp/225.1.1.157:5002
+#EXTINF:-1 ,CCTV风云足球
+http://nas.hssvm.com:8888/udp/225.1.1.181:5002
+#EXTINF:-1 ,CCTV高尔夫网球
+http://nas.hssvm.com:8888/udp/225.1.1.182:5002
+#EXTINF:-1 ,CCTV第一剧场
+http://nas.hssvm.com:8888/udp/225.1.1.183:5002
+#EXTINF:-1 ,CCTV怀旧剧场
+http://nas.hssvm.com:8888/udp/225.1.1.184:5002
+#EXTINF:-1 ,CCTV风云剧场
+http://nas.hssvm.com:8888/udp/225.1.1.185:5002
+#EXTINF:-1 ,CCTV世界地理
+http://nas.hssvm.com:8888/udp/225.1.1.186:5002
+#EXTINF:-1 ,CCTV国防军事
+http://nas.hssvm.com:8888/udp/225.1.1.187:5002
+#EXTINF:-1 ,CCTV老故事
+http://nas.hssvm.com:8888/udp/225.1.1.188:5002
+#EXTINF:-1 ,CCTV央视文化精品
+http://nas.hssvm.com:8888/udp/225.1.1.189:5002
+#EXTINF:-1 ,CCTV女性时尚
+http://nas.hssvm.com:8888/udp/225.1.1.190:5002
+#EXTINF:-1 ,CCTV新科动漫
+http://nas.hssvm.com:8888/udp/225.1.1.191:5002
+#EXTINF:-1 ,CCTV风云音乐
+http://nas.hssvm.com:8888/udp/225.1.1.192:5002
+#EXTINF:-1 ,CCTV电视指南
+http://nas.hssvm.com:8888/udp/225.1.1.194:5002
+#EXTINF:-1 ,CCTV央视台球
+http://nas.hssvm.com:8888/udp/225.1.1.198:5002
+#EXTINF:-1 ,国学频道
+http://nas.hssvm.com:8888/udp/225.1.1.199:5002
+#EXTINF:-1 ,靓妆
+http://nas.hssvm.com:8888/udp/225.1.1.200:5002
+#EXTINF:-1 ,梨园频道
+http://nas.hssvm.com:8888/udp/225.1.1.202:5002
+#EXTINF:-1 ,文物宝库
+http://nas.hssvm.com:8888/udp/225.1.1.203:5002
+#EXTINF:-1 ,早期教育
+http://nas.hssvm.com:8888/udp/225.1.1.204:5002
+#EXTINF:-1 ,汽摩频道
+http://nas.hssvm.com:8888/udp/225.1.1.205:5002
+#EXTINF:-1 ,彩民在线
+http://nas.hssvm.com:8888/udp/225.1.1.206:5002
+#EXTINF:-1 ,DV生活
+http://nas.hssvm.com:8888/udp/225.1.1.207:5002
+#EXTINF:-1 ,武术世界
+http://nas.hssvm.com:8888/udp/225.1.1.208:5002
+#EXTINF:-1 ,CCTV卫生与健康
+http://nas.hssvm.com:8888/udp/225.1.1.210:5002
+#EXTINF:-1 ,七彩戏剧
+http://nas.hssvm.com:8888/udp/225.1.1.86:5002
+#EXTINF:-1 ,东方财经
+http://nas.hssvm.com:8888/udp/225.1.1.87:5002
+#EXTINF:-1 ,新动漫
+http://nas.hssvm.com:8888/udp/225.1.1.216:5002
+#EXTINF:-1 ,网络棋牌
+http://nas.hssvm.com:8888/udp/225.1.1.217:5002
+#EXTINF:-1 ,中华美食
+http://nas.hssvm.com:8888/udp/225.1.1.218:5002
+#EXTINF:-1 ,先锋乒羽
+http://nas.hssvm.com:8888/udp/225.1.1.219:5002
+#EXTINF:-1 ,天津文艺广播
+http://nas.hssvm.com:8888/udp/225.1.1.171:5002
+#EXTINF:-1 ,天津经济广播
+http://nas.hssvm.com:8888/udp/225.1.1.172:5002
+#EXTINF:-1 ,天津新闻广播
+http://nas.hssvm.com:8888/udp/225.1.1.173:5002
+#EXTINF:-1 ,天津生活广播
+http://nas.hssvm.com:8888/udp/225.1.1.174:5002
+#EXTINF:-1 ,天津交通广播
+http://nas.hssvm.com:8888/udp/225.1.1.175:5002
+#EXTINF:-1 ,天津相声广播
+http://nas.hssvm.com:8888/udp/225.1.1.176:5002
+#EXTINF:-1 ,天津小说广播
+http://nas.hssvm.com:8888/udp/225.1.1.177:5002
+#EXTINF:-1 ,天津滨海广播
+http://nas.hssvm.com:8888/udp/225.1.1.178:5002
+#EXTINF:-1 ,天津音乐广播
+http://nas.hssvm.com:8888/udp/225.1.1.179:5002
+#EXTINF:-1 ,天津农村广播
+http://nas.hssvm.com:8888/udp/225.1.1.180:5002
+#EXTINF:-1 ,东方购物
+http://nas.hssvm.com:8888/udp/225.1.1.223:5002
+#EXTINF:-1 ,好享购物
+http://nas.hssvm.com:8888/udp/225.1.1.224:5002
+#EXTINF:-1 ,优购物
+http://nas.hssvm.com:8888/udp/225.1.1.225:5002
+#EXTINF:-1 ,家有购物
+http://nas.hssvm.com:8888/udp/225.1.1.226:5002
+#EXTINF:-1 ,家家购物
+http://nas.hssvm.com:8888/udp/225.1.1.227:5002
+#EXTINF:-1 ,聚鲨环球购物
+http://nas.hssvm.com:8888/udp/225.1.1.102:5002
+#EXTINF:-1 ,三佳购物
+http://nas.hssvm.com:8888/udp/225.1.1.151:5002
+#EXTINF:-1 ,央广购物
+http://nas.hssvm.com:8888/udp/225.1.1.65:5002

@@ -1,0 +1,133 @@
+前言：
+
+
+本文介绍通过Cloudflare的Worker服务来搭建属于自己的EPG服务。
+
+无套路，无推广，非广告，回复可获取代码。
+
+
+优点：
+
+免维护自动更新
+支持IPv6/IPv4双栈访问
+无需自己的服务器无任何费用
+支持xml格式和DIYP类播放器格式
+DIPY接口支持历史多天EPG内容查询
+
+
+部署步骤：
+
+1、访问https://www.cloudflare.com 并登录
+2、选择页面左侧的[Workers 和 Pages]
+3、右上角选择[创建应用程序]——[创建Worker]——[部署]
+4、点击部署后，会提示已部署，再点击[编辑代码]。
+5、将下方代码全部复制粘贴至窗口左侧的worker.js完成替换：
+
+
+本帖隐藏的内容
+const Config = {
+    repository: 'live.fanmingming.com'
+};
+
+async function jq_fetch(request) {
+    let response = await fetch(request);
+    for (let i = 0; i < 5 && (response.status === 301 || response.status === 302 || response.redirected); i++) {
+        const location = response.headers.get('location') || response.url;
+        response = await fetch(new Request(location, { headers: { cookie: response.headers.get('set-cookie') } }));
+    }
+    return response;
+}
+
+function makeRes(body, status = 200, headers = { 'access-control-allow-origin': '*' }) {
+    return new Response(body, { status, headers });
+}
+
+function formatDateTime(time = '') {
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    const defaultDate = `${year}-${month}-${day}`;
+
+    if (time.length < 8) return { date: defaultDate, time: '' };
+
+    const [inputYear, inputMonth, inputDay] = [time.substring(0, 4), time.substring(4, 6), time.substring(6, 8)];
+    const formattedDate = `${inputYear}-${inputMonth}-${inputDay}`;
+    const formattedTime = time.length >= 12 ? `${time.substring(8, 10)}:${time.substring(10, 12)}` : '';
+
+    return { date: formattedDate, time: formattedTime };
+}
+
+async function diypHandle(channel, date, request) {
+    const tag = date.replace(/-/g, '.');
+    const res = await jq_fetch(new Request(`https://github.com/celetor/epg/releases/download/${tag}/112114.json`, request));
+    const data = await res.json();
+
+    const program_info = {
+        date,
+        channel_name: channel,
+        url: `https://${Config.repository}`,
+        epg_data: data.filter(element => element['@channel'] === channel && element['@start'].startsWith(date.replace(/-/g, '')))
+                      .map(element => ({
+                          start: formatDateTime(element['@start']).time,
+                          end: formatDateTime(element['@stop']).time,
+                          title: element['title']['#text'] || '未知节目',
+                          desc: element['desc']?.['#text'] || ''
+                      }))
+    };
+
+    if (program_info.epg_data.length === 0) {
+        program_info.epg_data.push({ start: "00:00", end: "23:59", title: "未知节目", desc: "" });
+    }
+
+    return makeRes(JSON.stringify(program_info), 200, { 'content-type': 'application/json' });
+}
+
+async function fetchHandler(event) {
+    const request = event.request;
+    const url = new URL(request.url);
+
+    if (url.pathname === '/' && !url.searchParams.has('ch')) {
+        return Response.redirect(`https://${Config.repository}/e.xml`, 302);
+    }
+
+    const channel = (url.searchParams.get("ch") || '').toUpperCase().replace(/-/g, '');
+    const dateParam = url.searchParams.get("date");
+    const date = formatDateTime(dateParam ? dateParam.replace(/\D+/g, '') : '').date;
+
+    if (parseInt(date.replace(/-/g, '')) >= 20240531) {
+        return diypHandle(channel, date, request);
+    } else {
+        return makeRes(JSON.stringify({
+            date,
+            channel_name: channel,
+            url: `https://${Config.repository}`,
+            epg_data: [{ start: "00:00", end: "23:59", title: "未知节目", desc: "" }]
+        }), 200, { 'content-type': 'application/json' });
+    }
+}
+
+addEventListener('fetch', event => {
+    event.respondWith(fetchHandler(event).catch(err => makeRes(`error:\n${err.stack}`, 502)));
+});
+
+
+
+6、替换完成后点击右上角的[部署]——[保存并部署]。
+7、选择左上角返回，找到[设置]——[触发器]，右侧选择[添加自定义域]，将自己的域名与之绑定访问即可。
+
+
+
+使用说明与演示示例：
+
+部署完成后，EPG接口地址统一为您的自定义域名。
+APTV及TiviMate或DIYP软件可直接将您的自定义域名设置为EPG地址。
+
+DIYP类软件指定日期调用示例(以CCTV1为例)：
+epg.0472.org/?ch=CCTV1&date=20240601
+
+
+
+搭建建议：
+上方链接仅作为演示，可能会随时关闭，建议自行搭建来使用。
+以上服务目前为测试阶段，Worker.js代码的bug问题与更新您可前往GitHub自取。
