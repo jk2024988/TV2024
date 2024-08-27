@@ -14,13 +14,11 @@
 
 ♛直播源类：
 ①甘肃比哈移不差：甘肃 移动 ipv6全组 115个 ☛ https://www.right.com.cn/forum/thread-8386769-1-1.html
-                          甘肃移动V6◆275个 ☛ https://www.right.com.cn/forum/thread-8388679-1-1.html
-
-                        ◆甘肃移动◆V6源◆1206个◆ ☛ https://www.right.com.cn/forum/thread-8390792-1-1.html
+甘肃移动V6◆275个 ☛ https://www.right.com.cn/forum/thread-8388679-1-1.html
+◆甘肃移动◆V6源◆1206个◆ ☛ https://www.right.com.cn/forum/thread-8390792-1-1.html
 
 ②海南热力有减：海南移动 V6 无尾版 ☛ https://www.right.com.cn/forum/thread-8387940-1-1.html
-                       海南V6◆590个 ☛ https://www.right.com.cn/forum/thread-8388364-1-1.html
-
-                        ◆海南◆V6◆IPTV◆源◆741个◆ ☛  https://www.right.com.cn/forum/thread-8390175-1-1.html
+海南V6◆590个 ☛ https://www.right.com.cn/forum/thread-8388364-1-1.html
+◆海南◆V6◆IPTV◆源◆741个◆ ☛  https://www.right.com.cn/forum/thread-8390175-1-1.html
 
 ♜服务代码类：矿神◆群晖◆IPTV◆GO◆精简版 ☛ https://www.right.com.cn/forum/thread-8389556-1-1.html
