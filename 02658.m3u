@@ -251,8 +251,6 @@ http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4mz&zy.m3u8
 http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4oz&zy.m3u8
 #EXTINF:0,CCTV-5
 http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
-#EXTINF:0,CCTV-5+
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5p&zy.m3u8
 #EXTINF:0,CCTV-6
 http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6&zy.m3u8
 #EXTINF:0,CCTV-7
@@ -493,12 +491,8 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:0,dyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:0,fyjc.m3u8?auth=testpub
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:0,hjjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:0,江苏卫视4K
-http://8.138.7.223/tv/jsws4k.php
 #EXTINF:0,广东卫视
 http://110.72.67.208:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:0,重温经典
@@ -507,3 +501,5 @@ http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 http://124.116.170.138:8081/rtp/239.109.205.192:9608
 #EXTINF:0,CCTV16奥林匹克
 http://124.116.170.138:8081/rtp/239.111.205.134:5140
+#EXTINF:0,浙江卫视HD
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
