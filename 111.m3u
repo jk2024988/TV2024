@@ -1,0 +1,967 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,^CCTV6
+http://39.134.194.60:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,^CCTV1***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://39.134.194.48:6610/030000001001/cctv-3/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://39.134.194.46:6610/030000001001/cctv-8/1.m3u8?
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://111.63.117.13:6060/030000001000/HNWS-HD/HNWS-HD.m3u8?
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,^CCTV15***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-15/1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,^CCTV12
+http://111.11.123.48:6610/030000001001/cctv-12/?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://39.134.194.50:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1,^湖南卫视
+http://39.134.194.54:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,^CCTV3
+http://39.134.194.60:6610/030000001001/cctv-3/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,^CCTV3***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.193.109:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,^CCTV1^
+https://play.kankanlive.com/live/1720408280309109.flv
+#EXTINF:-1,^浙江卫视***
+http://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5+***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,^CCTV8***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,^CCTV7***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8
+#EXTINF:-1,^湖南卫视
+http://39.134.194.52:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://111.11.123.42:6610/030000001000/HNWS-HD/HNWS-HD.m3u8?
+#EXTINF:-1,海外剧场
+http://111.11.121.200:6610/030000001001/xiqumd/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,^CCTV1
+http://111.11.123.48:6610/030000001001/cctv-1/?
+#EXTINF:-1,^安徽卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://111.11.123.48:6610/030000001001/cctv-10/?
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,^CCTV11***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,^CCTV6
+http://111.11.121.184:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,^CCTV1
+http://111.63.118.99:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
+#EXTINF:-1,^浙江卫视***
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.134.194.44:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://111.11.123.42:6610/030000001000/CCTV-5/CCTV-5.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,^CCTV1
+http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://39.134.193.107:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.164.138.145:9003/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://111.11.123.48:6610/030000001001/cctv-14/?
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,^CCTV4
+http://111.11.123.42:6610/030000001001/cctv-4/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,^CCTV6
+http://39.134.194.58:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1,惊悚悬疑
+http://39.134.193.109:6610/030000001001/jingsongxy/1.m3u8?
+#EXTINF:-1,惊悚悬疑
+http://111.11.123.42:6610/030000001001/jingsongxy/1.m3u8?
+#EXTINF:-1,^动作电影
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5
+http://39.134.194.60:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://111.11.121.184:6610/030000001001/guangdongstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,^CCTV6***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-6/1.m3u8
+#EXTINF:-1,^精品大剧***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdaju/1.m3u8
+#EXTINF:-1,^咪咕综合体育
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8
+#EXTINF:-1,古装剧场
+http://111.11.121.214:6610/030000001001/guzhuangjc/1.m3u8?
+#EXTINF:-1,^浙江卫视
+http://39.134.194.52:6610/030000001001/zhejiangstv/1.m3u8?
+#EXTINF:-1,^湖南卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/HNWS-HD/index.m3u8
+#EXTINF:-1,^浙江卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/ZJWS-HD/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://111.11.121.202:6610/030000001001/beijingstv/1.m3u8?
+#EXTINF:-1,中国功夫
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-gzkongfu/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://39.134.194.58:6610/030000001001/cctv-3/1.m3u8?
+#EXTINF:-1,^湖南卫视
+http://39.134.193.108:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1,农业致富
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/nongyezf/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,^CCTV10***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-10/1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,^CCTV12***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8
+#EXTINF:-1,^浙江卫视4k***
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.193.100:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,^CCTV6
+http://39.134.194.48:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1,^浙江卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://39.134.193.105:6610/030000001001/jiangsustv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,^CCTV14***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://111.63.117.13:6060/030000001001/cctv-5/1.m3u8
+#EXTINF:-1,动作电影
+http://111.11.121.212:6610/030000001001/dongzuody/1.m3u8?
+#EXTINF:-1,惊悚悬疑
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingsongxy/1.m3u8
+#EXTINF:-1,江西卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangxistv/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.134.193.111:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://111.11.123.42:6610/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?
+#EXTINF:-1,哒啵电竞
+http://39.134.193.103:6610/030000001001/dabodj/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8?
+#EXTINF:-1,浙江卫视***
+http://39.134.193.100:6610/030000001001/zhejiangstv/1.m3u8?
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-jiangxistv/1.m3u8
+#EXTINF:-1,^浙江卫视
+http://39.134.194.48:6610/030000001001/zhejiangstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8
+#EXTINF:-1,浙江卫视***
+https://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,^CCTV4***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8
+#EXTINF:-1,^浙江卫视***
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1,古装剧场
+http://39.134.193.112:6610/030000001001/guzhuangjc/1.m3u8?
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://111.11.123.10:6610/030000001001/tianjinstv/1.m3u8?
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.150.102.131:19901/tsfile/live/0128_1.m3u8
+#EXTINF:-1,爱情喜剧
+http://111.11.121.202:6610/030000001001/aiqingxj/1.m3u8?
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://111.63.118.98:6060/030000001001/beijingstv/1.m3u8
+#EXTINF:-1,古装剧场
+http://111.11.123.10:6610/030000001001/guzhuangjc/1.m3u8?
+#EXTINF:-1,^东南卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongnanstv/1.m3u8
+#EXTINF:-1,^深圳卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8
+#EXTINF:-1,^家庭剧场***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiatingjc/1.m3u8
+#EXTINF:-1,动作电影
+http://111.11.121.226:6610/030000001001/dongzuody/1.m3u8?
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://39.150.102.131:19901/tsfile/live/0131_1.m3u8
+#EXTINF:-1,炫舞未来
+http://39.134.194.44:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://111.11.123.28:6610/030000001001/hdcctv05plus/1.m3u8?
+#EXTINF:-1,湖南卫视*
+http://111.11.121.184:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,^CCTV1
+http://39.134.193.112:6610/030000001000/CCTV-1-HD/index.m3u8?
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://39.134.194.60:6610/030000001001/jiangsustv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://1.24.39.180:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://39.134.194.48:6610/030000001001/tianjinstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.193.102:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://39.134.194.56:6610/030000001001/cctv-8/1.m3u8?
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" ,甘肃卫视
+http://39.150.102.131:19901/tsfile/live/0141_1.m3u8
+#EXTINF:-1,怡伴健康
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/ljiankangyouyue/1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://111.11.121.184:6610/030000001001/anhuistv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3-6
+http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,^CCTV9***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-news/1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" ,四川卫视
+http://39.150.102.131:19901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://39.150.102.131:19901/tsfile/live/0003_1.m3u8
+#EXTINF:-1,^重庆卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,^CCTV13^
+http://39.150.102.131:19901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://39.150.102.131:19901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,^CCTV17
+http://39.134.194.60:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
+#EXTINF:-1,燃情世界杯
+http://39.134.193.112:6610/030000001000/G_AOYUN-1/index.m3u8?
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://39.150.102.131:19901/tsfile/live/0125_1.m3u8
+#EXTINF:-1,^东方卫视
+http://111.63.117.13:6060/030000001000/DFWS-HD/index.m3u8
+#EXTINF:-1,^浙江卫视
+http://39.134.193.106:6610/030000001001/zhejiangstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5
+http://39.134.194.56:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,^CCTV13
+http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,^CCTV14
+http://111.11.123.42:6610/030000001001/cctv-14/1.m3u8?
+#EXTINF:-1,爱情喜剧
+http://39.134.193.107:6610/030000001001/aiqingxj/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,^CCTV13***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-13/1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" ,CCTV16
+http://39.134.193.109:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
+#EXTINF:-1,明星大片
+http://111.11.121.210:6610/030000001001/mingxingdp/1.m3u8?
+#EXTINF:-1,湖南卫视*
+http://111.11.121.188:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1,家庭剧场
+http://111.11.121.188:6610/030000001001/jiatingjc/1.m3u8?
+#EXTINF:-1,潮妈辣婆
+http://39.134.193.100:6610/030000001001/HD-1500k-720P-cmlapo/?
+#EXTINF:-1,惊悚悬疑
+http://39.134.193.110:6610/030000001001/jingsongxy/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5+***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hdcctv05plus/1.m3u8
+#EXTINF:-1,^东方卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://39.134.193.100:6610/030000001001/cctv-3/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,^CCTV2***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8
+#EXTINF:-1,哒啵赛事
+http://39.134.193.107:6610/030000001001/wmyx/1.m3u8?
+#EXTINF:-1,军旅剧场
+http://111.11.123.36:6610/030000001001/junlvjc/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.150.102.131:19901/tsfile/live/0005_1.m3u8
+#EXTINF:-1,^重庆卫视
+http://111.11.121.184:6610/030000001001/chongqingstv/1.m3u8?
+#EXTINF:-1,哒啵赛事
+http://39.134.193.106:6610/030000001001/wmyx/1.m3u8?
+#EXTINF:-1,哒啵电竞
+http://39.134.193.100:6610/030000001001/dabodj/1.m3u8?
+#EXTINF:-1,^爱情喜剧
+http://39.134.193.100:6610/030000001001/aiqingxj/?
+#EXTINF:-1,军事评论
+http://111.11.123.28:6610/030000001001/junshipl/1.m3u8?
+#EXTINF:-1,精品综合
+http://39.134.193.107:6610/030000001001/mingxingdp/1.m3u8?
+#EXTINF:-1,^潮妈辣婆
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-1500k-720P-cmlapo/1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV2
+http://39.150.102.131:19901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://111.11.123.10:6610/030000001001/beijingstv/1.m3u8?
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://39.150.102.131:19901/tsfile/live/0135_1.m3u8
+#EXTINF:-1,动作电影
+http://39.134.193.100:6610/030000001001/dongzuody/?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://39.134.193.110:6610/030000001001/cctv-6/1.m3u8?
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" ,广西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0113_2.m3u8
+#EXTINF:-1,农业致富
+http://39.134.193.112:6610/030000001001/nongyezf/1.m3u8?
+#EXTINF:-1,农业致富
+http://39.134.193.109:6610/030000001001/nongyezf/1.m3u8?
+#EXTINF:-1,浙江卫视4K***
+https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.193.111:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1,^炫舞未来***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-xwwl/1.m3u8
+#EXTINF:-1,健康有约
+http://111.63.117.13:6060/030000001001/ljiankangyouyue/1.m3u8
+#EXTINF:-1,古装剧场
+http://39.134.194.58:6610/030000001001/guzhuangjc/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://39.134.193.107:6610/030000001001/cctv-8/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://39.134.193.108:6610/030000001001/cctv-8/1.m3u8?
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://111.63.117.13:6060/030000001000/ZJWS-HD/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://39.134.194.50:6610/030000001001/hdcctv05plus/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://111.11.123.48:6610/030000001001/cctv-4/?
+#EXTINF:-1,北京纪实
+http://112.27.5.218:9901/tsfile/live/faacts/1049_1.m3u8
+#EXTINF:-1,爱情喜剧
+http://111.11.121.222:6610/030000001001/aiqingxj/1.m3u8?
+#EXTINF:-1,军旅剧场
+http://39.134.193.107:6610/030000001001/junlvjc/1.m3u8?
+#EXTINF:-1,家庭剧场
+http://111.11.123.48:6610/030000001001/jiatingjc/?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5
+http://39.134.194.46:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1,^热播精选***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xiqumd/1.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV17
+http://111.63.117.13:6060/030000001000/G_CCTV-17-HD/index.m3u8?
+#EXTINF:-1,潮妈辣婆
+http://39.134.193.107:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
+#EXTINF:-1,中国功夫
+http://111.11.123.4:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.134.194.50:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1,古装剧场
+http://39.134.193.109:6610/030000001001/guzhuangjc/1.m3u8?
+#EXTINF:-1,家庭剧场
+http://39.134.193.100:6610/030000001001/jiatingjc/?
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV9
+http://111.11.123.48:6610/030000001001/cctv-news/?
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://111.11.121.226:6610/030000001001/shandongstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://39.134.193.110:6610/030000001001/cctv-3/1.m3u8?
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-hubeistv/1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://111.63.117.13:6060/030000001001/cctv-6/1.m3u8
+#EXTINF:-1,潮妈辣婆
+http://39.134.194.56:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
+#EXTINF:-1,潮妈辣婆
+http://111.11.121.222:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+#EXTINF:-1,^辽宁卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/liaoningstv/1.m3u8
+#EXTINF:-1,^湖南卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://111.11.123.44:6610/030000001001/guangdongstv/1.m3u8?
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://111.63.117.13:6060/030000001001/jiangsustv/1.m3u8
+#EXTINF:-1,潮妈辣婆
+http://111.11.123.28:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
+#EXTINF:-1,哒啵电竞
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dabodj/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.134.194.56:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1,精品体育
+http://39.134.194.50:6610/030000001001/jtiyu/1.m3u8?
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://39.134.193.107:6610/030000001001/zhejiangstv/1.m3u8?
+#EXTINF:-1,海外剧场
+http://39.134.193.100:6610/030000001001/xiqumd/?
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://111.63.117.13:6060/030000001000/DFWS-HD/DFWS-HD.m3u8
+#EXTINF:-1,^天津卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/tianjinstv/1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://111.11.123.48:6610/030000001001/cctv-11/?
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://39.134.193.103:6610/030000001001/tianjinstv/1.m3u8?
+#EXTINF:-1,^湖南卫视*
+http://111.11.123.30:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,^CCTV5+
+http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/index.m3u8?
+#EXTINF:-1,怡伴健康
+http://111.11.123.48:6610/030000001001/ljiankangyouyue/?
+#EXTINF:-1,湖南卫视4K***
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://111.63.118.98:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://111.63.117.13:6060/030000001001/tianjinstv/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://111.11.121.184:6610/030000001001/tianjinstv/1.m3u8?
+#EXTINF:-1,北京纪实
+http://39.134.193.100:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV9
+http://124.165.251.82:85/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1,古装剧场
+http://111.11.121.184:6610/030000001001/guzhuangjc/1.m3u8?
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://111.63.117.13:6060/030000001001/guangdongstv/1.m3u8
+#EXTINF:-1,河南卫视***
+http://1.94.31.214/php/hntv.php?id=hnws
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://111.8.242.104:8088/tsfile/live/1065_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://111.11.123.42:6610/030000001001/tianjinstv/1.m3u8?
+#EXTINF:-1,军事评论
+http://39.134.193.100:6610/030000001001/junshipl/?
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://39.134.193.107:6610/030000001001/tianjinstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://111.11.123.48:6610/030000001001/hdcctv05plus/1.m3u8?
+#EXTINF:-1,精品体育
+http://111.11.123.42:6610/030000001001/jtiyu/1.m3u8?
+#EXTINF:-1,哒啵赛事
+http://39.134.194.52:6610/030000001001/wmyx/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV-5
+http://113.200.114.168:20000/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.194.58:6610/030000001001/cctv-5/1.m3u8?
+#EXTINF:-1,农业致富
+http://111.11.123.48:6610/030000001001/nongyezf/?
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.193.111:6610/030000001001/hdcctv05plus/1.m3u8?
+#EXTINF:-1,动作电影
+http://111.11.123.42:6610/030000001001/dongzuody/1.m3u8?
+#EXTINF:-1,哒啵赛事
+http://39.134.193.103:6610/030000001001/wmyx/1.m3u8?
+#EXTINF:-1,^古装剧场
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guzhuangjc/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.134.193.109:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1,明星大片
+http://111.11.121.184:6610/030000001001/mingxingdp/1.m3u8?
+#EXTINF:-1,^东方卫视***
+http://111.11.123.48:6610/030000001001/dongfangstv/?
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV17
+http://111.11.123.30:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
+#EXTINF:-1,军事评论
+http://111.11.123.48:6610/030000001001/junshipl/?
+#EXTINF:-1,爱情喜剧
+http://111.11.123.42:6610/030000001001/aiqingxj/1.m3u8?
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://111.11.121.184:6610/030000001001/jiangxistv/1.m3u8?
+#EXTINF:-1,精品综合
+http://39.134.194.54:6610/030000001001/mingxingdp/1.m3u8?
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://39.150.102.131:19901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://124.165.251.82:85/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1,北京纪实
+http://111.11.123.48:6610/030000001001/HD-4000k-1080P-beijingjishi/?
+#EXTINF:-1,北京纪实
+http://39.134.193.103:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
+#EXTINF:-1,^北京卫视******
+http://111.11.121.184:6610/030000001001/beijingstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV2
+http://119.62.24.75:50085/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1,明星大片
+http://111.11.123.10:6610/030000001001/mingxingdp/1.m3u8?
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://111.63.117.13:6060/030000001000/GDWS-HD/index.m3u8?
+#EXTINF:-1,^湖南卫视
+http://39.134.194.58:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1,古装剧场
+http://111.11.123.48:6610/030000001001/guzhuangjc/?
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV9
+http://119.62.24.75:50085/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://111.63.117.13:6060/030000001001/beijingstv/1.m3u8
+#EXTINF:-1,^江苏卫视
+http://111.63.117.13:6060/030000001000/G_JIANGSU-HD/index.m3u8?
+#EXTINF:-1,^黑莓电影***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdianying/1.m3u8
+#EXTINF:-1,动作电影
+http://39.134.193.103:6610/030000001001/dongzuody/1.m3u8?
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://39.134.194.60:6610/030000001001/hunanstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,^CCTV8
+http://39.134.193.111:6610/030000001001/cctv-8/1.m3u8?
+#EXTINF:-1,明星大片
+http://111.11.123.6:6610/030000001001/mingxingdp/1.m3u8?
+#EXTINF:-1,精品体育
+http://39.134.193.110:6610/030000001001/jtiyu/1.m3u8?
+#EXTINF:-1,^东方卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongfangstv/1.m3u8
+#EXTINF:-1,精品体育
+http://39.134.193.112:6610/030000001001/jtiyu/1.m3u8?
+#EXTINF:-1,农业致富
+http://39.134.193.100:6610/030000001001/nongyezf/?
+#EXTINF:-1,睛彩篮球
+http://39.134.193.100:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
+#EXTINF:-1,家庭剧场
+http://111.11.123.4:6610/030000001001/jiatingjc/1.m3u8?
+#EXTINF:-1,东方卫视***
+http://119.62.24.75:50085/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://wfenf.x3322.net:7788/624878396
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" ,山西卫视
+http://39.150.102.131:19901/tsfile/live/0118_1.m3u8
+#EXTINF:-1,爱情喜剧
+http://111.11.123.30:6610/030000001001/aiqingxj/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://119.62.24.75:50085/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1,怡伴健康
+http://111.11.121.184:6610/030000001001/ljiankangyouyue/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV17
+http://119.62.24.75:50085/tsfile/live/0017_4.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" ,兵团卫视
+http://39.150.102.131:19901/tsfile/live/0017_6.m3u8
+#EXTINF:-1,爱情喜剧
+http://111.11.123.4:6610/030000001001/aiqingxj/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://111.63.117.13:6060/030000001001/cctv-3/1.m3u8
+#EXTINF:-1,潮妈辣婆
+http://39.134.193.109:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
+#EXTINF:-1,哒啵电竞
+http://39.134.193.110:6610/030000001001/dabodj/1.m3u8?
+#EXTINF:-1,潮妈辣婆
+http://39.134.193.105:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13
+http://119.62.24.75:50085/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1,北京纪实
+http://39.134.194.60:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
+#EXTINF:-1,军事评论
+http://111.11.121.186:6610/030000001001/junshipl/1.m3u8?
+#EXTINF:-1,睛彩青少
+http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=001C366F865C602F58587E8BE8616930
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://124.165.251.82:85/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1,^北京卫视***
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://119.62.24.75:50085/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://fn.gcl.de5.net:5908/gsh950428/631780421
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
+#EXTINF:-1,山东卫视***
+http://111.11.121.184:6610/030000001001/shandongstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://47.100.80.251:50001/624878271
+#EXTINF:-1,东莞综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://1.94.31.214/php/hntv.php
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV2
+http://fn.gcl.de5.net:5908/gsh950428/631780532
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://112.30.73.119:9901/tsfile/live/1404_1.m3u8
+#EXTINF:-1,浙江卫视***
+http://111.11.123.42:6610/030000001001/zhejiangstv/1.m3u8?
+#EXTINF:-1,农业致富
+http://39.134.193.104:6610/030000001001/nongyezf/1.m3u8?
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://wfenf.x3322.net:7788/962042070
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://47.100.80.251:50001/673168121
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://111.8.242.104:8088/tsfile/live/1073_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://120.226.246.71:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
+http://119.62.24.75:50085/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://wfenf.x3322.net:7788/624878440
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://39.150.102.131:19901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://39.134.194.54:6610/030000001001/hdcctv05plus/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://39.150.102.131:19901/tsfile/live/0011_1.m3u8
+#EXTINF:-1,凤凰资讯***
+http://l8221706.dpdns.org/fhx.php?id=fhzx
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13-6
+http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://47.100.80.251:50001/947472496
+#EXTINF:-1,健康有约
+http://111.11.123.44:6610/030000001001/ljiankangyouyue/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV12
+http://47.100.80.251:50001/673168185
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://124.165.251.82:85/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://47.100.80.251:50001/641886683
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" ,广西卫视
+http://39.150.102.131:19901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://119.62.24.75:50085/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://119.62.24.75:50085/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" ,CCTV16
+http://39.134.193.100:6610/030000001001/HD-4000k-1080P-cctv16/?
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://2g545s5578.qicp.vip:59901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://124.165.251.82:85/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://47.119.24.76:59093/641886683
+#EXTINF:-1,动作电影
+http://111.63.117.13:6060/030000001001/dongzuody/1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV12
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1,军事评论
+http://111.11.123.10:6610/030000001001/junshipl/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://39.150.102.131:19901/tsfile/live/0006_1.m3u8
+#EXTINF:-1,北京卫视-6
+http://112.27.5.218:9901/tsfile/live/faacts/0122_1.m3u8
+#EXTINF:-1,睛彩广场舞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m$上海移
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://wfenf.x3322.net:7788/624878356
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,cctv1
+http://115.190.252.60/cctv1.php
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13
+http://47.100.80.251:50001/608807423
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://47.100.80.251:50001/624878396
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://124.165.251.82:85/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://wfenf.x3322.net:7788/641886773
+#EXTINF:-1,北京纪实
+http://39.134.194.56:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://112.27.5.218:9901/tsfile/live/faacts/0008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://47.100.80.251:50001/641886773
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4-6
+http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://47.100.80.251:50001/962042070
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1-6
+http://112.27.5.218:9901/tsfile/live/faacts/0001_1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://47.100.80.251:50001/623899368
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://47.100.80.251:50001/624878356
+#EXTINF:-1,湖南高清
+http://110.72.84.191:808/hls/1003/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://39.150.102.131:19901/tsfile/live/0008_1.m3u8
+#EXTINF:-1,咪咕视频2
+http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://47.100.80.251:50001/631780421
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://fn.gcl.de5.net:5908/gsh950428/630287636
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://wfenf.x3322.net:7788/623899368
+#EXTINF:-1,CHC影迷电影-6
+http://112.27.5.218:9901/tsfile/live/faacts/1038_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://47.100.80.251:50001/608807420
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://fn.gcl.de5.net:5908/gsh950428/673168223
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" ,劲爆体育
+http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://fn.gcl.de5.net:5908/gsh950428/673168121
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" ,CCTV16
+http://39.134.193.100:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV9
+http://wfenf.x3322.net:7788/673168140
+#EXTINF:-1,军事评论
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junshipl/1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://47.100.80.251:50001/673168223
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13
+http://wfenf.x3322.net:7788/608807423
+#EXTINF:-1,广东卫视-6
+http://112.27.5.218:9901/tsfile/live/faacts/0125_1.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" ,兵团卫视
+http://47.100.80.251:50001/956923145
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://47.100.80.251:50001/608831231
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://119.62.24.75:50085/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" ,四川卫视
+http://111.8.242.104:8088/tsfile/live/1056_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://45.192.97.170:8880/play/7.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://39.150.102.131:19901/tsfile/live/0014_1.m3u8
+#EXTINF:-1,湖南卫视4K***
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
+#EXTINF:-1,咪咕视频35
+http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000012558/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://wfenf.x3322.net:7788/630287636
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://119.62.24.75:50085/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://1.24.39.180:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://39.150.102.131:19901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV2
+http://wfenf.x3322.net:7788/631780532
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://111.11.123.44:6610/030000001001/shandongstv/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV12
+http://39.150.102.131:19901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV12
+http://wfenf.x3322.net:7788/673168185
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://wfenf.x3322.net:7788/608807420
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://124.165.251.82:85/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://39.150.102.131:19901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://111.8.242.104:8088/tsfile/live/1041_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://47.100.80.251:50001/651632648
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://wfenf.x3322.net:7788/624878405
+#EXTINF:-1,至臻视界4K
+http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" ,CCTV16
+http://1.24.39.180:808/hls/60/index.m3u8
+#EXTINF:-1,CETV4
+http://39.150.102.131:19901/tsfile/live/0017_8.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://wfenf.x3322.net:7788/673168223
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,cctv5
+http://115.190.252.60/cctv5.php
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://45.192.97.170:8880/play/15.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://fn.gcl.de5.net:5908/gsh950428/624878440
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://47.100.80.251:50001/630287636
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://111.11.123.42:6610/030000001000/G_JIANGSU-HD/G_JIANGSU-HD.m3u8?
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://www.ikerobot.com:1234/962042070
+#EXTINF:-1,咪咕视频1
+http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" ,深圳卫视
+http://124.165.251.82:85/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" ,广西卫视
+http://112.30.73.119:9901/tsfile/live/1405_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://wfenf.x3322.net:7788/624878271
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://47.100.80.251:50001/624878405
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://124.165.251.82:85/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://fn.gcl.de5.net:5908/gsh950428/623899368
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" ,云南卫视
+http://39.150.102.131:19901/tsfile/live/0119_1.m3u8
+#EXTINF:-1,睛彩广场舞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m$上海移
+#EXTINF:-1,至臻视界
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13
+http://45.192.97.170:8880/play/14.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://fn.gcl.de5.net:5908/gsh950428/667987558
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://119.62.24.75:50085/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://wfenf.x3322.net:7788/608807419
+#EXTINF:-1,睛彩青少
+http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000031315/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://39.150.102.131:19901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://124.165.251.82:85/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://39.150.102.131:19901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" ,深圳卫视
+http://39.150.102.131:19901/tsfile/live/0126_1.m3u8
+#EXTINF:-1,湖北高清
+http://110.72.103.185:808/hls/1010/index.m3u8
+#EXTINF:-1,CETV2
+http://47.100.80.251:50001/923287211
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" ,兵团卫视
+http://wfenf.x3322.net:7788/956923145
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://wfenf.x3322.net:7788/673168121
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV12
+http://111.8.242.104:8088/tsfile/live/1043_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://111.8.242.104:8088/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" ,CCTV-9纪录
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV9-6
+http://112.27.5.218:9901/tsfile/live/faacts/0009_1.m3u8
+#EXTINF:-1,浙江卫视***
+https://ali-xwl.cztv.com/live/channel01720Pnew.m3u8
+#EXTINF:-1,江苏卫视-6
+http://112.27.5.218:9901/tsfile/live/faacts/0127_1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
+http://39.150.102.131:19901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" ,CCTV-8电视剧
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" ,吉林卫视
+http://111.8.242.104:8088/tsfile/live/1032_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://119.62.24.75:50085/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://45.78.61.93:1234/631780421
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://47.100.80.251:50001/667987558
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://110.72.77.154:808/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" ,广西卫视
+http://110.72.84.191:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://39.150.102.131:19901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV9
+http://39.150.102.131:19901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" ,兵团卫视
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=btws&zy.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://39.150.102.131:19901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://119.62.24.75:50085/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV17
+http://45.78.61.93:1234/673168256
+#EXTINF:-1,湖南卫视-6
+http://112.27.5.218:9901/tsfile/live/faacts/0142_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://112.27.5.218:9901/tsfile/live/faacts/1033_1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://111.8.242.104:8088/tsfile/live/1058_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://wfenf.x3322.net:7788/667987558
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://wfenf.x3322.net:7788/608807416
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV17
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://wfenf.x3322.net:7788/641886683
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://45.78.61.93:1234/673168223
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" ,云南卫视
+http://119.62.24.75:50085/tsfile/live/0018_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://110.72.84.191:808/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://45.78.61.93:1234/641886773
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" ,三沙卫视
+http://47.108.20.161:8866/hainan/hainan.php?id=ssws
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://116.128.243.121:85/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://39.164.138.145:9003/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" ,CCTV4欧洲
+http://45.78.61.93:1234/608807419
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5-6
+http://112.27.5.218:9901/tsfile/live/faacts/0016_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://39.150.102.131:19901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" ,CCTV4美洲
+http://45.78.61.93:1234/608807416
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://116.128.243.121:85/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://39.150.102.131:19901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://119.62.24.75:50085/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://39.150.102.131:19901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://221.221.137.78:8888/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://110.72.84.191:808/hls/11/index.m3u8
+#EXTINF:-1,北京高清
+http://110.72.103.195:808/hls/1005/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV2
+http://47.119.24.76:59093/631780532
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://119.62.24.75:50085/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" ,吉林卫视
+http://39.150.102.131:19901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://124.165.251.82:85/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1,凤凰中文***
+http://l8221706.dpdns.org/fhx.php?id=fhzw
+#EXTINF:-1,CETV4
+http://45.78.61.93:1234/923287339
+#EXTINF:-1,CETV1
+http://39.150.102.131:19901/tsfile/live/0018_3.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://116.128.243.121:85/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV15
+http://39.150.102.131:19901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://111.8.242.104:8088/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV8
+http://1.24.39.180:808/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV2
+http://45.78.61.93:1234/631780532
+#EXTINF:-1,湖北高清
+http://110.72.84.191:808/hls/1010/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://39.150.102.131:19901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://124.165.251.82:85/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3-6
+http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://110.72.74.207:808/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://120.224.84.170:8085/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5
+http://1.24.39.180:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://39.134.194.46:6610/030000001001/hdcctv05plus/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://119.62.24.75:50085/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://45.78.61.93:1234/624878405
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://wfenf.x3322.net:7788/631780421
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://119.62.24.75:50085/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1,天津高清
+http://110.72.103.195:808/hls/1009/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV17
+http://wfenf.x3322.net:7788/673168256
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://111.8.242.104:8088/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://110.72.103.195:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://111.8.242.104:8088/tsfile/live/1039_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://jxx.wlzsyw.cn:9901/tsfile/live/0001_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://113.57.140.161:10081/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" ,卡酷动画
+http://111.8.242.104:8088/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://39.150.102.131:19901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://www.rogerxlj.top:9998/rtp/233.18.204.69:5140
